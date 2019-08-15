@@ -1,6 +1,10 @@
 def using_until
   levitation_force = 6
-  #your code here
+  #method will print the phrase until the levitation_force == 10 
+  
+  until do
+  
+  end
     
 end
 
