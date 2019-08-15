@@ -4,7 +4,8 @@ def using_while
   #method will stop printing the phrase when the levitation_force == 10
   
   while levitation_force < 10 do
-    puts 
+    puts "Wingardium Leviosa"
+    levitation_force += 1 
   end
 end
 
